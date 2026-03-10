@@ -4,7 +4,7 @@
 <p align="center">
   📍 Hanoi, Vietnam <br/>
   🎓 3rd-year Information Technology student at VNU-UET <br/>
-  📊 GPA: 3.35 / 4.0
+  📊 GPA: 3.4 / 4.0
 </p>
 
 ---
